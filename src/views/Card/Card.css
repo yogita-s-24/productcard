@@ -1,0 +1,15 @@
+.container{
+   
+}
+
+.flex-box{
+    display: flex;
+justify-content: space-around;
+}
+
+.emoji{
+    background-color: antiquewhite;
+    margin-left: 20px;
+    padding: 6px;
+    border-radius:50%;
+}
